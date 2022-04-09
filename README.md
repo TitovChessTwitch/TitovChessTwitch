@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TitovChessTwitch
+- 👀 I’m interested in Gamedev, Frontend and Chess  
+- 🌱 I’m currently learning Unity and Vue
+- 📫 How to reach me: titovchess.twitch@gmail.com
